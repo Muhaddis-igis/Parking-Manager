@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import { add } from '@parking-manager/sample-lib'
 
 export default function Home() {
