@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "tsc":"tsc --noEmit"
+    "tsc": "tsc --noEmit"
   },
   "dependencies": {
     "@parking-manager/sample-lib": "workspace:*",
